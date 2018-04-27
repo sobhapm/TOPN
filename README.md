@@ -2,14 +2,21 @@
 
 The program topN will output the largest N numbers, highest first, given an arbitrarily large file  containing individual numbers on each line (e.g. 200Gb file) and a number N.
 
+### How to compile
+
+Use the make command to build the program, topN.
+
 ### How to run the program
+
+At the command-line type the following - 
 
 ./topN \<Input filename\> \<Number of largest numbers\>
 
 For example,
 ./topN testcase1.txt 10
 
-Expected Output-
+Expected Output-  
+
 Top N -----  
 9999999  
 9999998  
