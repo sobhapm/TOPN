@@ -1,8 +1,8 @@
-#Short Description
+##Short Description
 
 The program topN will output the largest N numbers, highest first, given an arbitrarily large file  containing individual numbers on each line (e.g. 200Gb file) and a number N.
 
-#How to run the program
+##How to run the program
 
 ./topN <Input filename> <Number of largest numbers>
 
