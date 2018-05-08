@@ -16,7 +16,7 @@ At the command-line type the following -
 For example,
 ./topN testcase1.txt 10
 
-Expected Output-  
+Expected Output---
 
 Top N -----  
 9999999  
