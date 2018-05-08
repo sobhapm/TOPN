@@ -5,6 +5,7 @@ The program topN will output the largest N numbers, highest first, given an arbi
 ### How to compile
 
 Use the make command to build the program, topN.
+make all will compile the program and run two short tests.
 
 ### How to run the program
 
