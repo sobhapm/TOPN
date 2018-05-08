@@ -30,3 +30,8 @@ Top N -----
 9999991  
 9999990  
 
+### To run the test script
+
+At the command-line type the following -
+
+./test.sh 
